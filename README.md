@@ -7,3 +7,8 @@ I took that course as training. You can find it here: [SQL for Data Analytics](h
 - **Visual Studio CODE:**
 - **Git & GitHub**
 - **Visualization: Qlik Sense** 
+
+# What I Learned
+ - **Complex Query Crafting**
+ - **PostgreSQL**
+ - **Git & GitHub**
